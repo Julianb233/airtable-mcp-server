@@ -121,4 +121,5 @@ dist
 build/
 dist/
 server/
-airtable-mcp-server.mcpb
+airtable-mcp-server.mcpb.codex/
+.hermes/
