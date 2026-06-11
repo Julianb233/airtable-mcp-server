@@ -123,3 +123,4 @@ dist/
 server/
 airtable-mcp-server.mcpb.codex/
 .hermes/
+.env.local
