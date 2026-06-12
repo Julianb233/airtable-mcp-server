@@ -125,3 +125,6 @@ airtable-mcp-server.mcpb.codex/
 .hermes/
 .env.local
 .DS_Store
+
+# Agent workspace artifacts
+.codex/
